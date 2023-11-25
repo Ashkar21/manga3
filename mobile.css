@@ -1,0 +1,115 @@
+
+@media (max-width: 768px) {
+    .popular{
+      width:100%;
+      height: fit-content;
+      border:3px solid rgb(255, 255, 255);
+      position: absolute;
+      top: 1850px;
+      border-radius: 10px;;
+      background-color: #292929;
+      
+    }
+    .top10{
+      width:100%;
+      height: auto;
+      border: 2px solid rgb(255, 255, 255);
+      position: absolute;
+      left: 1px;
+      border-radius: 10px;
+      background-color: #292929;
+    }
+  
+    .navbar ul li {
+      display: inline;
+      padding: 12px;
+    }
+    
+  
+  
+    .bigbox{
+      height: 300px;
+      width: 170px;
+      position: relative;
+      margin-bottom: 120px; 
+      border-radius: 10px;
+    }
+    .img2{
+      height: 280px;
+    }
+    .img2 img{
+      height: 270px;
+      width: 165px;
+      border-radius: 20px;
+    }
+    
+   /*manga part*/
+    .mangapart{
+      border:3px solid rgb(255, 255, 255);
+      width:98%;
+      height:auto;
+      position:absolute;
+      top :2820px;
+      left: 5px;
+      display: inline;
+    }
+    
+    .rectangle{
+      width:95%;
+      height: 200px;
+      border: 2px solid rgb(255, 255, 255);
+    }
+    .next{
+      padding-left: 40%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
